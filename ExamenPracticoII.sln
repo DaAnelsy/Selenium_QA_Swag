@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExamenPracticoII", "ExamenPracticoII\ExamenPracticoII.csproj", "{AEE52434-7508-4610-991B-61BD3385145F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenParcialII", "ExamenParcialII\ExamenParcialII.csproj", "{212353FB-9D62-450B-A67E-F71C7FD64FDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEE52434-7508-4610-991B-61BD3385145F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE52434-7508-4610-991B-61BD3385145F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE52434-7508-4610-991B-61BD3385145F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE52434-7508-4610-991B-61BD3385145F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{212353FB-9D62-450B-A67E-F71C7FD64FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212353FB-9D62-450B-A67E-F71C7FD64FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212353FB-9D62-450B-A67E-F71C7FD64FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212353FB-9D62-450B-A67E-F71C7FD64FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72D02DCC-719B-4360-9CF3-3A371B439447}
+	EndGlobalSection
+EndGlobal
